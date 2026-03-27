@@ -2,4 +2,3 @@ hello My name is Manoj.
 And I love coding
 this is the 3rd line
 4th line
-5th line of commit
